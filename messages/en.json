@@ -1,0 +1,22 @@
+{
+  "welcome": "Welcome",
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "wedding": "Wedding",
+  "ceremony": "Ceremony",
+  "reception": "Reception",
+  "rsvp": "RSVP",
+  "gallery": "Gallery",
+  "schedule": "Schedule",
+  "location": "Location",
+  "date": "Date",
+  "time": "Time",
+  "guests": "Guests",
+  "dress_code": "Dress Code",
+  "transportation": "Transportation",
+  "accommodation": "Accommodation",
+  "gifts": "Gifts",
+  "registry": "Registry",
+  "thank_you": "Thank You"
+} 
